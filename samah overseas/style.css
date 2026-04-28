@@ -591,6 +591,7 @@ footer {
 }
 @media(max-width:480px){
   .nav-logo-img img{height: 7vh;}
+  .mobile-nav{margin-top: 20px;}
   .industries-grid { grid-template-columns: 1fr; }
   .stats-grid { grid-template-columns: 1fr 1fr; }
   .team-grid { grid-template-columns: 1fr; }
